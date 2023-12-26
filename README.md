@@ -47,5 +47,5 @@ The final part focuses on the analysis of returned items and their impact on the
 ## Conclusion
 The project provides a comprehensive analysis of the Superstore's operations with actionable insights. By following the recommendations, the Superstore can aim to increase its profitability and secure its future.
 
-## Live Demo
+## Tableau Public Link
 [Link to live demo](https://public.tableau.com/views/SuperstoreDataVisualization_16962901720030/Part1ProfitsLosses?:language=en-US&:display_count=n&:origin=viz_share_link)
