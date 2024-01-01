@@ -1,6 +1,6 @@
 # Saving Superstore Data Visualization Project
 
-## Project Overview
+## Overview
 
 Welcome to the Superstore Data Visualization Project! The superstore is facing a crisis, and your insights will guide them away from bankruptcy. This README details the methods and findings of the project, following the provided rubric to ensure a fair and consistent evaluation.
 
